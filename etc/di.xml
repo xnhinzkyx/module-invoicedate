@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <preference for="Magento\Sales\Model\Order\Invoice" type="Kloner\InvoiceDate\Model\Rewrite\Invoice" />
+</config>

@@ -1,0 +1,25 @@
+{
+    "name": "xnhinzkyx/module-invoicedate",
+    "description": "Make invoice date variable for email template",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Nino Riconalla",
+            "email": "nino.riconalla@copypaste.ph"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Kloner\\InvoiceDate\\": ""
+        }
+    }
+}
+  
+  
